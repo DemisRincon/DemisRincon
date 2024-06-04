@@ -16,15 +16,30 @@
 - 📄 Know about my experiences Resume
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b>GitHub Stats</b>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demisrincon&show_icons=true&theme=dark&locale=en&layout=compact" alt="demisrincon" /></p>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=demisrincon&show_icons=true&theme=dark&locale=en" alt="demisrincon" /></p>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
