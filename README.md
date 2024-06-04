@@ -14,11 +14,6 @@
 - 📫 How to reach me **darmfma@gmail.com**
 
 - 📄 Know about my experiences Resume
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
