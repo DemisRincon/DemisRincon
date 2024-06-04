@@ -7,7 +7,7 @@
 
 - 🤝 I’m learning AWS and Testing <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">AWS</a>
 
-- 📝 I regularly write articles on 
+- 📝 I regularly teach other coders on  <a href="[https://github.com/100rabhcsmc/100DaysOfSwift](https://www.brightcoders.com/ )" target="blank">BrightCoders</a> 
 
 - 💬 Ask me about **MERN**
 
