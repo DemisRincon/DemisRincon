@@ -16,7 +16,7 @@
 - 📄 Know about my experiences Resume
 
 <br/>
-<h3>My GitHub Stats</h3>
+## <b>GitHub Stats</b>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demisrincon&show_icons=true&theme=dark&locale=en&layout=compact" alt="demisrincon" /></p>
 
