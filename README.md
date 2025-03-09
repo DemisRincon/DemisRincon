@@ -17,9 +17,64 @@
 
 <br>
 
+## <b>Tech Stack</b>
+<br>
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+</p>
+
+<br>
+
+## <b>Projects</b>
+<br>
+- 🏆 **Project 1:** A web application that does XYZ. [GitHub Repo](https://github.com/demisrincon/project1)
+- 🌟 **Project 2:** An innovative solution for ABC. [GitHub Repo](https://github.com/demisrincon/project2)
+- 🚀 **Project 3:** A tool to enhance DEF. [GitHub Repo](https://github.com/demisrincon/project3)
+
+<br>
+
 ## <b>GitHub Stats</b>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demisrincon&show_icons=true&theme=dark&locale=en&layout=compact" alt="demisrincon" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=demisrincon&show_icons=true&theme=dark&locale=en" alt="demisrincon
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=demisrincon&show_icons=true&theme=dark&locale=en" alt="demisrincon" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## <b>Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/demisrincon/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  DemisRincon-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:darmfma@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:   DemisRincon-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/>
+</a>
+</li>
+    
+</ul>
+</div>
+
+<
