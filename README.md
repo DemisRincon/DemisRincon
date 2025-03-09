@@ -33,7 +33,9 @@
 ## <b>Projects</b>
 <br>
 - 🏆 **Project 1:** A web application that does XYZ. [GitHub Repo](https://github.com/demisrincon/project1)
+<br>
 - 🌟 **Project 2:** An innovative solution for ABC. [GitHub Repo](https://github.com/demisrincon/project2)
+<br>
 - 🚀 **Project 3:** A tool to enhance DEF. [GitHub Repo](https://github.com/demisrincon/project3)
 
 <br>
@@ -76,5 +78,3 @@
     
 </ul>
 </div>
-
-<
