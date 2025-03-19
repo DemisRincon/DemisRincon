@@ -25,18 +25,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
-
-<br>
-
-## <b>Projects</b>
-<br>
-- 🏆 **Project 1:** A web application that does XYZ. [GitHub Repo](https://github.com/demisrincon/project1)
-<br>
-- 🌟 **Project 2:** An innovative solution for ABC. [GitHub Repo](https://github.com/demisrincon/project2)
-<br>
-- 🚀 **Project 3:** A tool to enhance DEF. [GitHub Repo](https://github.com/demisrincon/project3)
 
 <br>
 
