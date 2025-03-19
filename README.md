@@ -35,7 +35,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demisrincon&show_icons=true&theme=dark&locale=en&layout=compact" alt="demisrincon" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=demisrincon&show_icons=true&theme=dark&locale=en" alt="demisrincon" /></p>
+
 <br>
 <br>
 <br>
