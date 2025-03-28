@@ -18,7 +18,7 @@
 <br>
 
 ## <b>Tech Stack</b>
-<br>
+
 <h3>Frontend Development</h3>
 <p align="left">
 <img alt="React.js" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -31,6 +31,9 @@
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 <img alt="SEO implementation" src="https://img.shields.io/badge/-SEO-0261C4?style=flat-square&logo=google&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
 </p>
 
 <h3>Backend Development</h3>
@@ -69,15 +72,25 @@
 <img alt="AWS EC2" src="https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
 </p>
 
+<h3>Design & Collaboration</h3>
+<p align="left">
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+<img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</p>
+
 <br>
 
 ## <b>GitHub Stats</b>
+
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demisrincon&show_icons=true&theme=dark&locale=en&layout=compact" alt="demisrincon" /></p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## <b>Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+
 <br>
 <div align='left'>
 
